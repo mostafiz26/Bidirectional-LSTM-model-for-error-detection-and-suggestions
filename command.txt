@@ -1,0 +1,3 @@
+python trainer.py 200(layers)
+
+python detector.py 200(layers) 20(epoch) test.c (error file)
