@@ -1,6 +1,6 @@
 # Bidirectional-LSTM-model-for-error-detection-and-suggestions
 
-We have used the Chainer framework and python 2 for this project. User should define the number of epoch (n_epoch = 30) in trainer.py code. The basic command for model training and error detection is given bellow. 
+We have used the Chainer framework and python 2 for this project. User should define the number of epoch (n_epoch = 30) in trainer.py code. The basic command for model training and error detection is given bellow. You can download data resources (source codes) from this repository using API [http://developers.u-aizu.ac.jp/index]
 
 For model Training
 
